@@ -1,0 +1,12 @@
+{
+  "name": "<%= name %>",
+  "version": "0.0.0",
+  "description": "api-blueprint based API documentation for <%= name %>",
+  "license": "MIT",
+  "author": {
+    "name": "<%= realname %>"
+  },
+  "files": [
+    "dist/index.html"
+  ]
+}

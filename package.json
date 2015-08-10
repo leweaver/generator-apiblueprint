@@ -1,0 +1,21 @@
+{
+  "name": "generator-apiblueprint",
+  "version": "0.1.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ransico/generator-apiblueprint.git"
+  },
+  "author": "Lewis Weaver",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ransico/generator-apiblueprint/issues"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "homepage": "https://github.com/ransico/generator-apiblueprint#readme",
+  "dependencies": {
+    "yeoman-generator": "^0.20.2"
+  }
+}
