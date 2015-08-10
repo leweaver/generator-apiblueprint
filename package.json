@@ -1,7 +1,7 @@
 {
   "name": "generator-apiblueprint",
   "version": "0.1.0",
-  "description": "",
+  "description": "A generator that will create a new boilerplate apiblueprint project, complete with a Gruntfile including aglio and a connect server with livereload.",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ransico/generator-apiblueprint.git"
