@@ -4,17 +4,17 @@
   "description": "A generator that will create a new boilerplate apiblueprint project, complete with a Gruntfile including aglio and a connect server with livereload.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ransico/generator-apiblueprint.git"
+    "url": "git+https://github.com/leweaver/generator-apiblueprint.git"
   },
   "author": "Lewis Weaver",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ransico/generator-apiblueprint/issues"
+    "url": "https://github.com/leweaver/generator-apiblueprint/issues"
   },
   "keywords": [
     "yeoman-generator"
   ],
-  "homepage": "https://github.com/ransico/generator-apiblueprint#readme",
+  "homepage": "https://github.com/leweaver/generator-apiblueprint#readme",
   "dependencies": {
     "yeoman-generator": "^0.20.2"
   }
